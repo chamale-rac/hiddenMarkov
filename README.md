@@ -1,2 +1,2 @@
 # hiddenMarkov
-Where will I be tomorrow?
+What will the weather be?
